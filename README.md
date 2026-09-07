@@ -335,3 +335,46 @@ A higher-order function is a function that:
 
 Takes another function as an argument, or
 Returns another function.
+
+Python Comprehensions
+
+Python comprehensions provide a concise and readable way to create new collections from existing iterables such as lists, sets, dictionaries, strings, and ranges.
+
+They reduce the amount of code required compared with traditional for loops while keeping the logic simple and readable.
+
+Types of Comprehensions
+
+List Comprehension
+Conditional List Comprehension
+If-Else Comprehension
+Dictionary Comprehension
+Set Comprehension
+Nested Comprehension
+
+What are Comprehensions?
+
+A comprehension is a compact way to create a new collection by iterating over an existing iterable and optionally applying a condition or transformation.
+
+1. List Comprehension
+
+A list comprehension is used to create a new list.
+
+2. Conditional List Comprehension
+
+A condition can be added to a list comprehension to filter values.
+
+3. If-Else Comprehension
+
+An if-else expression can be used to transform every item.
+
+4. Dictionary Comprehension
+
+Dictionary comprehension is used to create dictionaries in a concise way.
+
+5. Set Comprehension
+
+Set comprehension creates a new set.
+
+6. Nested Comprehension
+
+A comprehension can contain multiple for clauses.
